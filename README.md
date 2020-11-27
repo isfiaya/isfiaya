@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning Web developer in openclassrooms
 - 💬 Ask me about HTML CSS Javascript 
 - ⚡ Fun fact: I was study anesthesia before i know my passion is the programming 
+<hr>
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=isfiaya)
 
 <hr>
 <p align="center">
