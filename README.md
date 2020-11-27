@@ -6,6 +6,7 @@
 - ⚡ Fun fact: I was study anesthesia before i know my passion is the programming 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=isfiaya)
+![My github stats](https://github-readme-stats.vercel.app/api?username=isfiaya&show_icons=true)
 
 <hr>
 <p align="center">
