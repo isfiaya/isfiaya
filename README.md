@@ -1,6 +1,6 @@
 ### Hi there I'm Aymen 👋
 
-- 🔭 I’m currently working at Agence Webixia Tunisie
+- 🔭 I’m currently working at TEKAB.DEV
 - 🌱 Web developer with a professional qualification 
 - 💬 Ask me about HTML CSS Javascript 
 - ⚡ Fun fact: I was study anesthesia before i know my passion is the programming 
