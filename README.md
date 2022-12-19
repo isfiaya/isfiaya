@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
-<h3 align="left">I'm Aymen Isfiaya, A passionate Frontend Web Developer from Tunisia</h3>
+<h3 align="left">My name is Aymen, A passionate Frontend Web Developer from Tunisia</h3>
 
 - 🔭 I’m currently working at TEKAB.DEV
 - 🌱 Web developer with a professional qualification 
