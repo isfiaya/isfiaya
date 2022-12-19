@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at TEKAB.DEV
 - 🌱 Web developer with a professional qualification 
-- 💬 Ask me about HTML CSS Javascript 
+- 💬 Ask me about React and Vue 
 - ⚡ Fun fact: I was study anesthesia before i know my passion is the programming 
 
 <h3 align="left">Languages and Tools:</h3>
