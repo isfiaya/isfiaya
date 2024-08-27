@@ -3,7 +3,7 @@
 </div>  
 <h3 align="left">My name is Aymen, A passionate Frontend Web Developer from Tunisia</h3>
 
-- 🔭 I’m currently working at TEKAB.DEV
+- 🔭 I'm currently working at a Platinum Atlassian Partner, Creativas.
 - 🌱 Web developer with a professional qualification 
 - 💬 Ask me about React and Vue 
 - ⚡ Fun fact: I was study anesthesia before i know my passion is the programming 
